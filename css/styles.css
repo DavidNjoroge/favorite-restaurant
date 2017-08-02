@@ -1,0 +1,17 @@
+h1{
+  color: blue;
+  font-style: italic;
+  text-align: center;
+}
+
+p{
+  font-family: sans-serif;
+  font-size: 14;
+  text-align: center;
+}
+html{
+  background: #569592
+}
+li{
+  line-height: 60px;
+}
